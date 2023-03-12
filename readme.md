@@ -25,6 +25,9 @@ To install and run this server, follow these steps:
 3. Start the server by running `npm start`.
 4. The server will listen on `localhost:3000` by default.
 
+## Start a redis server
+- redis-server
+
 ## Usage
 
 ### Retrieving all users
